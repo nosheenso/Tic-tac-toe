@@ -1,2 +1,2 @@
 # Tic-tac-toe
-Tic-tac-toe game coded in Java
+Tic-tac-toe game coded in Java 💻
